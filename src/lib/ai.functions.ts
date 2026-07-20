@@ -28,7 +28,7 @@ async function callGemini(messages: any[], opts?: { json?: boolean }) {
   const isDirectConfigured = directKey && directKey.trim() !== "" && directKey !== "your-gemini-api-key-here";
 
   if (!isLovableConfigured && isDirectConfigured) {
-    const gateway = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${directKey}`;
+    const gateway = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${directKey}`;
 
     const contents = messages.map((m: any) => {
       if (Array.isArray(m.content)) {
