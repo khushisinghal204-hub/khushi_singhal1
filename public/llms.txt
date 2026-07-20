@@ -1,0 +1,14 @@
+# BhashaBridge
+
+> AI-powered language translation platform for Indian students — text, voice, document, and image translation across 17+ Indian and world languages.
+
+BhashaBridge helps students translate educational content between Hindi, English, Tamil, Telugu, Bengali, Marathi, Gujarati, Kannada, Malayalam, Punjabi, Urdu, Sanskrit and major world languages, with an AI study assistant for simplifying and summarizing.
+
+## Pages
+- [Home](/): Overview of BhashaBridge and core features
+- [Text Translator](/translator): Instant text translation across 17 languages
+- [Voice Translator](/voice): Speech-to-text translation in real time
+- [Document Translator](/documents): Upload PDFs and text files for full translation
+- [Image Translator](/image): OCR + translation for images of text
+- [AI Study Assistant](/study): Simplify, summarize, and extract key points
+- [About](/about): Mission and team
